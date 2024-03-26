@@ -20,10 +20,8 @@ AES-128 is considered secure against all known practical attacks when properly i
 
 In conclusion, AES-128 is a widely trusted and used symmetric encryption standard, providing strong security and high performance for encrypting data.
 
-• Block Diagram
+![image](https://github.com/Lin-Yu-Ming/AES-128-Encryption/assets/71814265/7e7f1d0b-2e4c-40fd-8ed6-fd606e301fe0)
 
-
-![aes](https://github.com/Lin-Yu-Ming/AES-128-Encryption/assets/71814265/fcbaf781-cc48-4206-9998-37a4cec30484)
 
 • I/O information
 
@@ -35,6 +33,6 @@ A total of 10 rounds are performed, with no MixColumns transformation required i
 The Round 0 key is a secret key sent through the I/O port “key”, while the other round keys are computed through the 
 key expansion operation.
 
+![image](https://github.com/Lin-Yu-Ming/AES-128-Encryption/assets/71814265/0e66e31e-3f11-4104-8ecd-6c05dea05b95)
 
-![aes2](https://github.com/Lin-Yu-Ming/AES-128-Encryption/assets/71814265/affe73da-4211-467e-b3a7-cfb3cfb83fc3)
 
