@@ -19,4 +19,16 @@ AES-128 is considered secure against all known practical attacks when properly i
 - **Flexibility**: Can be used in various modes of operation, like CBC (Cipher Block Chaining), GCM (Galois/Counter Mode), and others, providing versatility in addressing different security requirements.
 
 In conclusion, AES-128 is a widely trusted and used symmetric encryption standard, providing strong security and high performance for encrypting data.
+
+• Block Diagram
 ![aes](https://github.com/Lin-Yu-Ming/AES-128-Encryption/assets/71814265/fcbaf781-cc48-4206-9998-37a4cec30484)
+
+• I/O information
+![image](https://github.com/Lin-Yu-Ming/AES-128-Encryption/assets/71814265/e16fc8f8-3662-4b99-b6c8-75f7dc92d435)
+
+• AES flow diagram:
+A total of 10 rounds are performed, with no MixColumns transformation required in the final round.
+The Round 0 key is a secret key sent through the I/O port “key”, while the other round keys are computed through the 
+key expansion operation.
+![aes2](https://github.com/Lin-Yu-Ming/AES-128-Encryption/assets/71814265/affe73da-4211-467e-b3a7-cfb3cfb83fc3)
+
