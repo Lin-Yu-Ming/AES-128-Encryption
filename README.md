@@ -36,3 +36,10 @@ key expansion operation.
 ![image](https://github.com/Lin-Yu-Ming/AES-128-Encryption/assets/71814265/0e66e31e-3f11-4104-8ecd-6c05dea05b95)
 
 
+•FSM
+
+
+![image](https://github.com/Lin-Yu-Ming/AES-128-Encryption/assets/71814265/59ee1921-d2c1-450e-a7ee-d05b3ad510ac)
+
+
+
